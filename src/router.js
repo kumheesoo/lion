@@ -10,6 +10,7 @@
              
 
 //     }
+<<<<<<< HEAD
 // ])
 
 import { Outlet, createBrowserRouter } from "react-router-dom"
@@ -57,3 +58,6 @@ const router = createBrowserRouter([
 
 export default router
 
+=======
+// ])
+>>>>>>> 3bf088635b7662098645039e5a3d179355448b6e
